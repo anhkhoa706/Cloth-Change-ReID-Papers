@@ -1,9 +1,9 @@
-# Paper and Dataset collection for Cloth-Changing Person Re-Identification (CCRe-ID)
+# Cloth-Changing Person ReID: Papers & Datasets
 
 ![rgbt_car10](https://github.com/wangxiao5791509/Cloth_Change_Person_reID_Paper_List/blob/master/reid_clothchange.png) 
 
 
-## Survey papers on person re-identification 
+## 📖 Survey Papers on Person Re-Identification  
 Ye, Mang, et al. "Deep Learning for Person Re-identification: A Survey and Outlook." arXiv preprint arXiv:2001.04193 (2020). [[Paper](https://arxiv.org/pdf/2001.04193)]
 
 ## Baseline Code for CCRe-ID
@@ -12,20 +12,36 @@ Ye, Mang, et al. "Deep Learning for Person Re-identification: A Survey and Outlo
 - [Video-based CCRe-ID](https://github.com/dustin-nguyen-qil/VCCReID-Baseline)
 
 ## Benchmark Datasets
-1. COCAS dataset, cvpr-2020, [[Paper](https://arxiv.org/pdf/2005.07862.pdf)] 
-2. LTCC dataset, arXiv-2020, [[Paper](https://arxiv.org/pdf/2005.12633)] [[Project](https://naiq.github.io/LTCC_Perosn_ReID.html)] 
-3. Celeb-reID-light, IJCNN-2019, [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8851957)] [[Dataset](https://1drv.ms/u/s!Ats-N2hYCkEIgckRrtd0HGhUZPqNcw?e=ziRTjb)]
-4. Celeb-reID, T-CSVT 2019, [[Paper](https://opus.lib.uts.edu.au/bitstream/10453/137156/4/Binder1.pdf)] [[Code](https://github.com/Huang-3/Celeb-reID)] [[Dataset](https://1drv.ms/u/s!Ats-N2hYCkEIgckQF5M5TCsBF0aQZQ?e=IKG16O)]
-5. VC-Clothes && Real28, arXiv-2020, [[Paper](https://arxiv.org/pdf/2003.04070.pdf)] [[Project](https://wanfb.github.io/dataset.html)]
-6. PRCC dataset, T-PAMI, 2019, [[Paper](https://arxiv.org/abs/2002.02295)] [[Dataset](https://drive.google.com/file/d/1yTYawRm4ap3M-j0PjLQJ--xmZHseFDLz/view?usp=sharing)]
-7. LaST dataset, T-CSVT 2021, [[Project](https://sites.google.com/view/personreid)] [[Paper](https://arxiv.org/abs/2105.15076)] [[Github](https://github.com/shuxjweb/last)] 
-8. DeepChange, ICCV 2023 [[Github](https://github.com/PengBoXiangShang/deepchange)]
+| 📅 Year | 📌 Dataset Name | 📄 Paper | 📂 Dataset | 🔗 Project |
+|---------|---------------|----------|------------|------------|
+| 2020 | **COCAS** (CVPR) | [Paper](https://arxiv.org/pdf/2005.07862.pdf)| - | - |
+| 2020 | **LTCC** (arXiv) | [Paper](https://arxiv.org/pdf/2005.12633)| - | [Project](https://naiq.github.io/LTCC_Perosn_ReID.html)|
+| 2019 | **Celeb-reID-light** (IJCNN) | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8851957)| [Dataset](https://1drv.ms/u/s!Ats-N2hYCkEIgckRrtd0HGhUZPqNcw?e=ziRTjb)| - |
+| 2019 | **Celeb-reID** (T-CSVT) |[Paper](https://opus.lib.uts.edu.au/bitstream/10453/137156/4/Binder1.pdf) | [Dataset](https://1drv.ms/u/s!Ats-N2hYCkEIgckQF5M5TCsBF0aQZQ?e=IKG16O) | [[Code](https://github.com/Huang-3/Celeb-reID) |
+| 2020 | **VC-Clothes & Real28** (arXiv) | [Paper](https://arxiv.org/pdf/2003.04070.pdf) | - | [[Project](https://wanfb.github.io/dataset.html) |
+| 2019 | **PRCC** (T-PAMI) | [Paper](https://arxiv.org/abs/2002.02295) | [Dataset](https://drive.google.com/file/d/1yTYawRm4ap3M-j0PjLQJ--xmZHseFDLz/view?usp=sharing) | - |
+| 2021 | **LaST** (T-CSVT) |[Paper](https://arxiv.org/abs/2105.15076) | [Github](https://github.com/shuxjweb/last) | [Project](https://sites.google.com/view/personreid) |
+| 2023 | **DeepChange** (ICCV) | - | [Github](https://github.com/PengBoXiangShang/deepchange) | - |
 
 ![rgbt_car10](https://github.com/wangxiao5791509/Cloth_Change_Person_reID_Paper_List/blob/master/ccReID_datasets.png) 
 
 
+## ✅ Read Papers
 
-## Paper List 
+### Year 2024
+* **Instruct-ReID: A Multi-purpose Person Re-identification Task with Instructions**, Weizhen He, Yiheng Deng, Shixiang Tang, Qihao Chen, Qingsong Xie, Yizhou Wang, Lei Bai, Feng Zhu, Rui Zhao, Wanli Ouyang, Donglian Qi, Yunfeng Yan
+  [[Paper](https://arxiv.org/abs/2306.07520)]
+  [[Code](https://github.com/hwz-zju/Instruct-ReID)] 
+
+* **Contrastive Viewpoint-Aware Shape Learning for Long-Term Person Re-Identification**, Vuong D. Nguyen, Khadija Khaldi, Dung Nguyen, Pranav Mantini and Shishir Shah. In WACV 2024.
+[[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Nguyen_Contrastive_Viewpoint-Aware_Shape_Learning_for_Long-Term_Person_Re-Identification_WACV_2024_paper.html)]
+
+### Year 2022 
+* Clothes-Changing Person Re-identification with RGB Modality Only, Xinqian Gu, Hong Chang, Bingpeng Ma, Shutao Bai, Shiguang Shan, Xilin Chen, Accepted by CVPR 2022 
+[[Paper](https://arxiv.org/pdf/2204.06890.pdf)]
+[[Code](https://github.com/guxinqian/Simple-CCReID)]
+
+## 📖 Unread Papers
 
 ### Year 2024
 
@@ -114,11 +130,6 @@ Li, Yu-Jhe, et al. "Learning Shape Representations for Clothing Variations in Pe
 Qian, Xuelin, et al. "Long-Term Cloth-Changing Person Re-identification." ACCV (2020). [[Paper](https://arxiv.org/pdf/2005.12633)]  [[Project](https://naiq.github.io/LTCC_Perosn_ReID.html)] 
 
 
- 
-
-
-
-  
 
 ### Year 2019 
 
@@ -132,15 +143,11 @@ Fine-Grained Person Re-identification, Jiahang Yin, Ancong Wu, Wei-Shi Zheng, [[
 
 
 
-
-
-
 ### Year 2018 and Before 
 
 Xue, Jia, et al. "Clothing change aware person identification." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops. 2018. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w41/Xue_Clothing_Change_Aware_CVPR_2018_paper.pdf)]  
 
 Zhang, Peng, et al. "Long-term person re-identification using true motion from videos." 2018 IEEE Winter Conference on Applications of Computer Vision (WACV). IEEE, 2018. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8354164)] 
-
 
 
 
