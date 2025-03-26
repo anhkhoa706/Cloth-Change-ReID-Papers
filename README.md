@@ -17,8 +17,8 @@ Ye, Mang, et al. "Deep Learning for Person Re-identification: A Survey and Outlo
 | 2020 | **COCAS** (CVPR) | [Paper](https://arxiv.org/pdf/2005.07862.pdf)| - | - |
 | 2020 | **LTCC** (arXiv) | [Paper](https://arxiv.org/pdf/2005.12633)| - | [Project](https://naiq.github.io/LTCC_Perosn_ReID.html)|
 | 2019 | **Celeb-reID-light** (IJCNN) | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8851957)| [Dataset](https://1drv.ms/u/s!Ats-N2hYCkEIgckRrtd0HGhUZPqNcw?e=ziRTjb)| - |
-| 2019 | **Celeb-reID** (T-CSVT) |[Paper](https://opus.lib.uts.edu.au/bitstream/10453/137156/4/Binder1.pdf) | [Dataset](https://1drv.ms/u/s!Ats-N2hYCkEIgckQF5M5TCsBF0aQZQ?e=IKG16O) | [[Code](https://github.com/Huang-3/Celeb-reID) |
-| 2020 | **VC-Clothes & Real28** (arXiv) | [Paper](https://arxiv.org/pdf/2003.04070.pdf) | - | [[Project](https://wanfb.github.io/dataset.html) |
+| 2019 | **Celeb-reID** (T-CSVT) |[Paper](https://opus.lib.uts.edu.au/bitstream/10453/137156/4/Binder1.pdf) | [Dataset](https://1drv.ms/u/s!Ats-N2hYCkEIgckQF5M5TCsBF0aQZQ?e=IKG16O) | [Code](https://github.com/Huang-3/Celeb-reID) |
+| 2020 | **VC-Clothes & Real28** (arXiv) | [Paper](https://arxiv.org/pdf/2003.04070.pdf) | - | [Project](https://wanfb.github.io/dataset.html) |
 | 2019 | **PRCC** (T-PAMI) | [Paper](https://arxiv.org/abs/2002.02295) | [Dataset](https://drive.google.com/file/d/1yTYawRm4ap3M-j0PjLQJ--xmZHseFDLz/view?usp=sharing) | - |
 | 2021 | **LaST** (T-CSVT) |[Paper](https://arxiv.org/abs/2105.15076) | [Github](https://github.com/shuxjweb/last) | [Project](https://sites.google.com/view/personreid) |
 | 2023 | **DeepChange** (ICCV) | - | [Github](https://github.com/PengBoXiangShang/deepchange) | - |
