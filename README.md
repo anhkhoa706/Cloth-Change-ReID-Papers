@@ -36,6 +36,9 @@ Ye, Mang, et al. "Deep Learning for Person Re-identification: A Survey and Outlo
 * **Contrastive Viewpoint-Aware Shape Learning for Long-Term Person Re-Identification**, Vuong D. Nguyen, Khadija Khaldi, Dung Nguyen, Pranav Mantini and Shishir Shah. In WACV 2024.
 [[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Nguyen_Contrastive_Viewpoint-Aware_Shape_Learning_for_Long-Term_Person_Re-Identification_WACV_2024_paper.html)]
 
+* **GEFF: Improving Any Clothes-Changing Person ReID Model using Gallery Enrichment with Face Features**, Weizhen He, Daniel Arkushin, Bar Cohen, Shmuel Peleg, Ohad Fried. In WACV 2024.
+[[Paper]((https://openaccess.thecvf.com/content/WACV2024W/RWS/papers/Arkushin_GEFF_Improving_Any_Clothes-Changing_Person_ReID_Model_Using_Gallery_Enrichment_WACVW_2024_paper.pdf))]
+
 ### Year 2022 
 * Clothes-Changing Person Re-identification with RGB Modality Only, Xinqian Gu, Hong Chang, Bingpeng Ma, Shutao Bai, Shiguang Shan, Xilin Chen, Accepted by CVPR 2022 
 [[Paper](https://arxiv.org/pdf/2204.06890.pdf)]
